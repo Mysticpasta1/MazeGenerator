@@ -1,0 +1,11 @@
+{
+	"block.mazegenerator.maze_generator": "迷宫生成器",
+	"item.maze_generator.tooltip_1": "箭头所指方向为迷宫西北角和入口方向",
+	"item.maze_generator.tooltip_2": "生成迷宫大小：",
+	"item.maze_generator.tooltip_3": "M0：21x21",
+	"item.maze_generator.tooltip_4": "M1：31x31",
+	"item.maze_generator.tooltip_5": "M2：51x51",
+	"item.maze_generator.tooltip_6": "迷宫内随机位置生成箱子",
+	"item.maze_generator.tooltip_7": "箱子个数和内容由紧邻此方块的箱子决定",
+	"item.maze_generator.tooltip_8": "（激活前请谨慎确定位置和方向！）"
+}

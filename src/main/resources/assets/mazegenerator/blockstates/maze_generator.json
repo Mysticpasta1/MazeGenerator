@@ -1,0 +1,49 @@
+{
+  "variants": {
+    "maze_size=0,facing=north": {
+      "model": "mazegenerator:block/maze_generator_0"
+    },
+    "maze_size=0,facing=east": {
+      "model": "mazegenerator:block/maze_generator_0",
+      "y": 90
+    },
+    "maze_size=0,facing=south": {
+      "model": "mazegenerator:block/maze_generator_0",
+      "y": 180
+    },
+    "maze_size=0,facing=west": {
+      "model": "mazegenerator:block/maze_generator_0",
+      "y": 270
+    },
+    "maze_size=1,facing=north": {
+      "model": "mazegenerator:block/maze_generator_1"
+    },
+    "maze_size=1,facing=east": {
+      "model": "mazegenerator:block/maze_generator_1",
+      "y": 90
+    },
+    "maze_size=1,facing=south": {
+      "model": "mazegenerator:block/maze_generator_1",
+      "y": 180
+    },
+    "maze_size=1,facing=west": {
+      "model": "mazegenerator:block/maze_generator_1",
+      "y": 270
+    },
+    "maze_size=2,facing=north": {
+      "model": "mazegenerator:block/maze_generator_2"
+    },
+    "maze_size=2,facing=east": {
+      "model": "mazegenerator:block/maze_generator_2",
+      "y": 90
+    },
+    "maze_size=2,facing=south": {
+      "model": "mazegenerator:block/maze_generator_2",
+      "y": 180
+    },
+    "maze_size=2,facing=west": {
+      "model": "mazegenerator:block/maze_generator_2",
+      "y": 270
+    }
+  }
+}
