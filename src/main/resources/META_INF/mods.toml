@@ -1,0 +1,33 @@
+modLoader="javafml" 
+loaderVersion="[43,)" 
+license="LGPLv3"
+issueTrackerURL="" 
+
+[[mods]] 
+modId="mazegenerator" 
+version="1.0.0-forge"
+displayName="mazegenerator" 
+displayURL="https://github.com/Exploding-Creeper/mazegenerator" 
+logoFile= "src/main/resources/assets/mazegenerator/icon.png"
+credits='''
+Lekavar for work on the original fabric mod
+'''
+authors="Lekavar, Mysticpasta1"
+description='''
+Random Maze Generator!
+'''
+
+# Base
+[[dependencies.mazegenerator]]
+    modId="forge"
+    mandatory=true
+    versionRange="[43,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.mazegenerator]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2, 1.20)"
+    ordering="NONE"
+    side="BOTH"

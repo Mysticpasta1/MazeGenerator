@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "mazegenerator",
+    "name": "Maze Generator",
+    "description": "Random Maze Generator!",
+    "version": "1.0.0-forge",
+    "mcversion": "1.19.2",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Lekavar, Mysticpasta1"],
+    "credits": "Lekavar for work on the original fabric mod",
+    "logoFile": "src/main/resources/assets/mazegenerator/icon.png",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
